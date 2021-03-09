@@ -1,2 +1,2 @@
-# eicom_discord
-EICOM Discord bot
+# EICOM Discord Bot
+A projekt célja nem egyértelmű.
